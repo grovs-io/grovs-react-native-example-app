@@ -6,7 +6,7 @@
  */
 
 import { useEffect, useState } from 'react';
-import { Grovs } from 'react-native-grovs-wrapper';
+import Grovs from 'react-native-grovs-wrapper';
 import {
   StyleSheet,
   Text,

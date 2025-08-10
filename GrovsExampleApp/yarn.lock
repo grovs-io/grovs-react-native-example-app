@@ -5473,10 +5473,10 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-native-grovs-wrapper@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/react-native-grovs-wrapper/-/react-native-grovs-wrapper-0.1.5.tgz#85e9cf2b59b9702af97d268347880b8c3b6aea69"
-  integrity sha512-lNfDcTmz11cyvWI/vwc8xLqlWMYUS4F7r3wXFciClyf5VBu36rBfmXn4A0sOtFS2zRIytv5B7uEWGp2AObvW8Q==
+react-native-grovs-wrapper@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-grovs-wrapper/-/react-native-grovs-wrapper-0.2.0.tgz#f502059ae7fa42f67881b4035e97c42d875a28ed"
+  integrity sha512-hRJv83WbyGXaP9AUVb1POmmPZf8M2HzV5ZKBGQk8i6seFn3XPQ1JvqsLuD636q6CjV0Rq6s4iIsPF8PRzMIJBA==
 
 react-native@0.77.1:
   version "0.77.1"
